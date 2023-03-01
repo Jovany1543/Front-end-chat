@@ -9,6 +9,7 @@
   height: 400px;
   width: 400px;
   margin-left: auto;
+  padding: 5px;
 }
 
 .chat-box__messages {

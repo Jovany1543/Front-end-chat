@@ -44,7 +44,7 @@ export function ChatBox() {
   };
 
   return (
-    <div className="chat-box">
+    <div className="chat-box bg-light  rounded-2">
       <ul className="chat-box__messages">
         {messages.map((message, index) => (
           <li key={index} className="chat-box__message">
